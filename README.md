@@ -4,6 +4,7 @@
 DEYU ZHANG, School of Computer Science and Engineering, Central South University, China <br>
 TINGTING LONG, School of Computer Science and Engineering, Central South University, China <br>
 JINRUI ZHANG∗, Department of Computer Science and Technology, Tsinghua University, China <br>
+LIGENG CHEN, Operation System Group, Honor Device Co., Ltd, China <br>
 JU REN, Department of Computer Science and Technology, Tsinghua University, China <br>
 YAOXUE ZHANG, Department of Computer Science and Technology, Tsinghua University, China <br>
 
