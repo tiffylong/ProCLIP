@@ -13,4 +13,4 @@ Enabling efficient text-video retrieval on edge-end devices is critical for real
 
 <img src="fig/teaser.png"><br>
 
-<img src="fig/efficiency.png" width=400px> <img src="fig/user_scores.png" width=490px> <br>
+<img src="fig/efficiency.png" width=380px> <img src="fig/user_scores.png" width=400px> <br>
